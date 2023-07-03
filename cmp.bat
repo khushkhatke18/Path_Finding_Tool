@@ -1,0 +1,1 @@
+gcc path_find.c -o path_find.exe -I ..\Generic_DSA_library_C\include -L ..\Generic_DSA_library_C\lib -lkk
